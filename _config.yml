@@ -4,16 +4,14 @@
 
 # Site
 title: 奔跑的蜗牛
-subtitle:简维风
-subtitle:
-description:
+subtitle: 简维风
 author: Jiang Wei
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.sooglejay.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
