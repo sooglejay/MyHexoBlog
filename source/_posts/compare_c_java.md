@@ -34,7 +34,6 @@ Output:
 
 ### Java
     
-``` c
     
     import java.util.*;
     import java.lang.*;
@@ -69,14 +68,13 @@ Output:
             }
     	}
     }
-```  
  
-![img](/img/1.PNG)
+ 
+![logo](compare_c_java/1.png)  
+
   
+### C
   
-  ### C
-  
-``` java
 
     #include <stdio.h>
 	#define MAX 501
@@ -111,5 +109,9 @@ Output:
 	    return 0;
 	}
 	
-```
-![img](/img/2.PNG)
+![logo](compare_c_java/2.png)  
+
+
+1163 : 54  ～  21：1   
+
+也许把501搞大些，差距会更大，难怪ACMer都用C
