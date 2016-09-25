@@ -68,3 +68,10 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+
+highlight:
+enable: true
+line_number: true
+auto_detect: true
+tab_replace:
