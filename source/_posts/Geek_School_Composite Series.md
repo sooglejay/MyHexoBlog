@@ -41,7 +41,8 @@ Output:
 
 ### 代码如下
 
-``` 
+``` java
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
@@ -92,4 +93,5 @@ int main() {
     }
     return 0;
 }
+
 ```
