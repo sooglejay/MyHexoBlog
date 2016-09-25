@@ -29,7 +29,7 @@ Output:
 不是素数就是合数（1除外）
 
 ### 代码如下
-``` java
+
 
     #include <stdio.h>
     #include <string.h>
@@ -80,5 +80,4 @@ Output:
         }
         return 0;
     }
-```
-入排序了）
+
