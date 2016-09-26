@@ -1,5 +1,5 @@
 ---
-title: Computing Factorials of a huge number 
+title: Computing Factorials of A Huge Number 
 ---
 
 Hello @all,
