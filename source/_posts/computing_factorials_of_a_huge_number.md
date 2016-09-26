@@ -56,7 +56,6 @@ will produce the following output on Ideone:
 121645100408832000
 2432902008176640000
 -4249290049419214848
-
 ```
 So, we can now see that even when using the long long data type, the maximum factorial we can expect to compute correctly, is only 20!
 
