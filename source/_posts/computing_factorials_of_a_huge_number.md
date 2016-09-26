@@ -71,12 +71,15 @@ I am talking about doing all operations by hand!!
 
 The underlying idea behind long operations and how to map it into a programming language
 
+```
 12*11 = 132
+```
 
 Any programming language will tell you that. But, so will any 8 year old kid that's good with numbers. But, the kid's way of telling you such result is what we are interested in:
 
 Here's how he would do it:
 
+```
        12
      x 11
    ---------
@@ -84,6 +87,8 @@ Here's how he would do it:
      +12
   ----------
       132
+```  
+
 But, why is this idea way more interesting than simply doing it straighforwardly? It even looks harder and more error-prone... But, it has a fundamental property that we will exploit to its fullest:
 
 The intermediate numbers involved on the intermediate calculations never exceed 81
