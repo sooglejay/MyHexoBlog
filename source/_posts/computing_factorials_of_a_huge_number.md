@@ -1,5 +1,5 @@
 ---
-title: Computing Factorials of a huge number in C/C++: A tutorial
+title: Computing Factorials of a huge number 
 ---
 
 Hello @all,
