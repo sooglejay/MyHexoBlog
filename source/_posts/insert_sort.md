@@ -2,7 +2,7 @@
 title: 插入排序容易犯错的地方 
 ---
 
-```
+
 
     void insertSort(int array[],int count){
         int j,i,key;
@@ -17,4 +17,5 @@ title: 插入排序容易犯错的地方
        }
     }
     
-```
+    
+    
